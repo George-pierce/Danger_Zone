@@ -1,3 +1,3 @@
 #Ruby tutorial
 
-This is the first app for ROR3 Tutorial.
+This is my first app for ROR3 Tutorial.
